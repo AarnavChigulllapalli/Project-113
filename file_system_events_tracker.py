@@ -9,7 +9,7 @@ import logging
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
-from_dir = "/Users/Kuttimma/Downloads"
+from_dir = "C:/ Users/aarna/Downloads"
 
 # Event Hanlder Class
 class FileEventHandler(FileSystemEventHandler):
